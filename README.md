@@ -1,5 +1,4 @@
 # Conjoint-Analysis-and-PCA
-#Question 1:
 # Loading the necessary packages for performing conjoint analysis
 library(conjoint)   # Package for conducting conjoint analysis
 library(readxl)     # Package for reading Excel files
